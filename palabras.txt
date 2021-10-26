@@ -1,0 +1,4 @@
+chair
+racket
+touch
+height
